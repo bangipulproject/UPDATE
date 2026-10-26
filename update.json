@@ -16,7 +16,7 @@
   "apk": {
     "url": "https://raw.githubusercontent.com/bangipulproject/UPDATE/main/BIP-3.1.1-20261026.zip",
     "size": 28427680,
-    "sha256": "8eba29ebc263f8daad71cc0523586dd7a199ec64c5bd1742ae4bf60e9def97a1",
+    "sha256": "2704400ef5d4adcb96508a26eb05b574d82719975fc8a9e11e08d4a3865c27f8",
     "apkSha256": "5567e4c0a69899cec49c78b8f1d4ccdcfe8cb1d715a6a0225ebdde58a4841bb0",
     "format": "zip",
     "name": "BIP-3.1.1-20261026.apk"
